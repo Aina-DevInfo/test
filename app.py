@@ -15,4 +15,8 @@ def division( a,b):
         return a/b
     return 0
 
+print(somme(5,8))
+print(soustraction(9,51))
+print(modilo(8,0))
+print(division(5,6))
 print("ok")
